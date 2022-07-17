@@ -16,7 +16,7 @@ headers = {
 
 def requests_sender():
 	while True:
-		requests.get(url, headers=headers)
+		requests.get(url, headers=headers,timeout=(3.05, 2))
 		agent = ua.random
 		print(f"Request Sent as {agent}")
 
