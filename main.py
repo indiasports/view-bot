@@ -1,14 +1,9 @@
 import requests, threading, time
 from fake_useragent import UserAgent
-from flask import Flask, render_template
 
-app = Flask(__name__)
 ua = UserAgent()
 agent = ua.random
 
-@app.route('/')
-def index():
-  return render_template("index.html")
 
 url ='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRojanGamingYT%2FRojanGamingYT'
 
@@ -27,4 +22,3 @@ def requests_sender():
 
 if __name__ == "__main__":
 	requests_sender()
-app.run(host='0.0.0.0', port=8080)
