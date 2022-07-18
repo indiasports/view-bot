@@ -4,7 +4,7 @@ from fake_useragent import UserAgent
 ua = UserAgent()
 agent = ua.random
 
-url = 'https://www.mediafire.com/file/e62joxevjpzynog/Alight%252BMaster.apk/file'
+url = 'http://rojansapkota.com.np'
 
 headers = {
     "User-Agent":
