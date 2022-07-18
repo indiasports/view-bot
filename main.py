@@ -4,7 +4,7 @@ from fake_useragent import UserAgent
 ua = UserAgent()
 agent = ua.random
 
-url = 'https://l.instagram.com/?u=https%3A%2F%2Frojansapkota.com.np%2F&e=ATOOyL2K5Q0S91Mk-jqZPvf5UY-xewGCP2RGEtcxXhJWnN_VZOirdnVBPlyHDwfCQg0AuQuUG2cVKHijBljlUg&s=1'
+url = 'https://www.google.com/url?sa=t&source=web&rct=j&url=https://rojansapkota.com.np/&ved=2ahUKEwj75cSZ3IH5AhX7TGwGHcEkCAgQFnoECAoQAQ&usg=AOvVaw1_l83Z7fWhL-Xh5GNY8ukh'
 
 headers = {
     "User-Agent":
