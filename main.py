@@ -4,7 +4,7 @@ from fake_useragent import UserAgent
 ua = UserAgent()
 agent = ua.random
 
-url = 'https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRojanGamingYT%2FRojanGamingYT&count_bg=%2379C83D&title_bg=%23555555&icon=v.svg&icon_color=%234ACCC8&title=Profile+Views&edge_flat=false'
+url = 'https://rojansapkota0@gmail.com'
 
 headers = {
     "User-Agent":
