@@ -4,7 +4,7 @@ from fake_useragent import UserAgent
 ua = UserAgent()
 agent = ua.random
 
-url = 'https://blog.rojansapkota.com.np/2022/10/kinemaster-pro-is-1-trending-video.html'
+url = 'https://blog.rojansapkota.com.np/2022/10/todays-most-important-technology-trends.html'
 
 headers = {
     "User-Agent":
