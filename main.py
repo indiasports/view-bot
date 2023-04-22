@@ -1,9 +1,11 @@
 import requests, threading, time
 from fake_useragent import UserAgent
+from colorama import Fore
 
-url = 'https://dsc.gg/joindedsec'
+count = 99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+url = ''
 
-def requests_sender():
+def Gen():
 	while True:
 		ua = UserAgent()
 		agent = ua.random
@@ -14,5 +16,6 @@ def requests_sender():
 		requests.get(url, headers=headers)
 		print(f"Request Sent as {agent}")
 
-if __name__ == "__main__":
-	requests_sender()
+if __name__ == '__main__':
+    for i in range(count):
+        threading.Thread(target=Gen).start()
