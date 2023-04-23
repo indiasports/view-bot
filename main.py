@@ -3,7 +3,7 @@ from fake_useragent import UserAgent
 from colorama import Fore
 
 count = 99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
-url = input("URL --> ")
+url = "https://profile-counter.glitch.me/RojanGamingYT/count.svg" #input("URL --> ")
 
 def Gen():
 	while True:
