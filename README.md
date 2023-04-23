@@ -1,6 +1,6 @@
 # Website Traffic Generator
 
-MAXXED THREADS + RANDOM AGENTS ( 100k aprox in 15 Minutes)
+MAXXED THREADS + RANDOM AGENTS ( 100k aprox in FEW Minutes)
 
 
 ## 🥅 ・Goals
