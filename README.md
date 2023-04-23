@@ -2,7 +2,7 @@
 
 MAXXED THREADS + RANDOM AGENTS ( 100k aprox in FEW Minutes)
 
-<img src="https://profile-counter.glitch.me/RojanGamingYT/view-bot/count.svg" />
+<img src="https://profile-counter.glitch.me/RojanGamingYTcount.svg" />
 
 ## 🥅 ・Goals
 ```
