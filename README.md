@@ -6,7 +6,7 @@ MAXXED THREADS + RANDOM AGENTS ( 100k aprox in FEW Minutes)
 
 ## 🥅 ・Goals
 ```
-・ 20 stars for Traffic with proxy ❌
+・ 20 stars for Traffic with proxy ✅
 
 ・ 50 stars for Advanced gen with UI ❌
 
