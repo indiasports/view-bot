@@ -14,7 +14,7 @@ def Gen():
     agent
 }
 		requests.get(url, headers=headers)
-		print(f"Request Sent as {agent}")
+		print(fformat"Request Sent as {agent}")
 
 if __name__ == '__main__':
     for i in range(count):
